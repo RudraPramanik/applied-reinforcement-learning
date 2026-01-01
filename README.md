@@ -4,17 +4,17 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework](https://img.shields.io/badge/Framework-Gymnasium-green)](https://gymnasium.farama.org/)
 
-This repository is a comprehensive collection of **Reinforcement Learning (RL)** implementations, ranging from fundamental textbook algorithms to advanced research projects focused on industrial applications.
+This repository is a comprehensive collection of **Reinforcement Learning (RL)** implementations, ranging from fundamental algorithms to advanced research projects focused on industrial applications and independent research of Rudra Pramanik
 
 ## 🌟 Applied Research Projects
-These notebooks represent the core research focus of this repository, applying RL and ML to solve high-impact, real-world problems.
+These notebooks represent the research projects and experiment by Rudra and team, applying RL and ML to solve high-impact, real-world problems.
 
 | Project | Description | Key Technologies | Link |
 | :--- | :--- | :--- | :--- |
 | **Supply Chain RL** | Optimizing inventory levels across multi-echelon supply chains to minimize bullwhip effects. | Deep Q-Learning, Inventory Management | [Explore](./supply-chain-rl/Reinforcement-Learning-SupplyChain.ipynb) |
-| **Dynamic Pricing** | Real-time price optimization based on stochastic demand forecasting and market trends. | Contextual Bandits, Demand Modeling | [Explore](./Dynamic_pricing_demand_forecasting_reinforcement_learning.ipynb) |
+| **Dynamic Pricing** | Real-time price optimization based on stochastic demand forecasting and market trends. | Contextual Bandits, Demand Modeling | [Explore](./supply-chain-rl/Dynamic_pricing_demand_forecasting_reinforcement_learning.ipynb) |
 | **Anomaly Detection** | Monitoring industrial sensor data for predictive maintenance and fault detection. | Time-Series Analysis, LSTMs/ML | [Explore](./system%20and%20manufactureing/Anomaly_detection_time_series.ipynb) |
-| **EV Battery Health** | Predicting State-of-Health (SoH) and degradation patterns in Electric Vehicle batteries. | Predictive Modeling, Battery Science | [Explore](./ml_ev_battery_degradation.ipynb) |
+| **EV Battery Health** | Predicting State-of-Health (SoH) and degradation patterns in Electric Vehicle batteries. | Predictive Modeling, Battery Science | [Explore](./system%20and%20manufactureing/ml_ev_battery_degradation.ipynb) |
 
 ---
 
